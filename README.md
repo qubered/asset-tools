@@ -8,4 +8,4 @@ A entertainment industry focused app for managing assets and rentals.
 * I'm tired of using excel for everything.
 * I have struggled to find a theatre first solution.
 
-Also lowkey a great learning experience.
+Also low key a great learning experience.
