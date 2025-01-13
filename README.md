@@ -1,5 +1,5 @@
 # Asset Tools
-Real name to come when i have some creativity..
+Real name to come when I have some creativity..
 
 ## What is this?
 A entertainment industry focused app for managing assets and rentals.
